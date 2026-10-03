@@ -1,0 +1,3644 @@
+[
+  {
+    "team": "Boston Bruins",
+    "year": "1990",
+    "wins": "44",
+    "losses": "24"
+  },
+  {
+    "team": "Buffalo Sabres",
+    "year": "1990",
+    "wins": "31",
+    "losses": "30"
+  },
+  {
+    "team": "Calgary Flames",
+    "year": "1990",
+    "wins": "46",
+    "losses": "26"
+  },
+  {
+    "team": "Chicago Blackhawks",
+    "year": "1990",
+    "wins": "49",
+    "losses": "23"
+  },
+  {
+    "team": "Detroit Red Wings",
+    "year": "1990",
+    "wins": "34",
+    "losses": "38"
+  },
+  {
+    "team": "Edmonton Oilers",
+    "year": "1990",
+    "wins": "37",
+    "losses": "37"
+  },
+  {
+    "team": "Hartford Whalers",
+    "year": "1990",
+    "wins": "31",
+    "losses": "38"
+  },
+  {
+    "team": "Los Angeles Kings",
+    "year": "1990",
+    "wins": "46",
+    "losses": "24"
+  },
+  {
+    "team": "Minnesota North Stars",
+    "year": "1990",
+    "wins": "27",
+    "losses": "39"
+  },
+  {
+    "team": "Montreal Canadiens",
+    "year": "1990",
+    "wins": "39",
+    "losses": "30"
+  },
+  {
+    "team": "New Jersey Devils",
+    "year": "1990",
+    "wins": "32",
+    "losses": "33"
+  },
+  {
+    "team": "New York Islanders",
+    "year": "1990",
+    "wins": "25",
+    "losses": "45"
+  },
+  {
+    "team": "New York Rangers",
+    "year": "1990",
+    "wins": "36",
+    "losses": "31"
+  },
+  {
+    "team": "Philadelphia Flyers",
+    "year": "1990",
+    "wins": "33",
+    "losses": "37"
+  },
+  {
+    "team": "Pittsburgh Penguins",
+    "year": "1990",
+    "wins": "41",
+    "losses": "33"
+  },
+  {
+    "team": "Quebec Nordiques",
+    "year": "1990",
+    "wins": "16",
+    "losses": "50"
+  },
+  {
+    "team": "St. Louis Blues",
+    "year": "1990",
+    "wins": "47",
+    "losses": "22"
+  },
+  {
+    "team": "Toronto Maple Leafs",
+    "year": "1990",
+    "wins": "23",
+    "losses": "46"
+  },
+  {
+    "team": "Vancouver Canucks",
+    "year": "1990",
+    "wins": "28",
+    "losses": "43"
+  },
+  {
+    "team": "Washington Capitals",
+    "year": "1990",
+    "wins": "37",
+    "losses": "36"
+  },
+  {
+    "team": "Winnipeg Jets",
+    "year": "1990",
+    "wins": "26",
+    "losses": "43"
+  },
+  {
+    "team": "Boston Bruins",
+    "year": "1991",
+    "wins": "36",
+    "losses": "32"
+  },
+  {
+    "team": "Buffalo Sabres",
+    "year": "1991",
+    "wins": "31",
+    "losses": "37"
+  },
+  {
+    "team": "Calgary Flames",
+    "year": "1991",
+    "wins": "31",
+    "losses": "37"
+  },
+  {
+    "team": "Chicago Blackhawks",
+    "year": "1991",
+    "wins": "36",
+    "losses": "29"
+  },
+  {
+    "team": "Boston Bruins",
+    "year": "1990",
+    "wins": "44",
+    "losses": "24"
+  },
+  {
+    "team": "Buffalo Sabres",
+    "year": "1990",
+    "wins": "31",
+    "losses": "30"
+  },
+  {
+    "team": "Calgary Flames",
+    "year": "1990",
+    "wins": "46",
+    "losses": "26"
+  },
+  {
+    "team": "Chicago Blackhawks",
+    "year": "1990",
+    "wins": "49",
+    "losses": "23"
+  },
+  {
+    "team": "Detroit Red Wings",
+    "year": "1990",
+    "wins": "34",
+    "losses": "38"
+  },
+  {
+    "team": "Edmonton Oilers",
+    "year": "1990",
+    "wins": "37",
+    "losses": "37"
+  },
+  {
+    "team": "Hartford Whalers",
+    "year": "1990",
+    "wins": "31",
+    "losses": "38"
+  },
+  {
+    "team": "Los Angeles Kings",
+    "year": "1990",
+    "wins": "46",
+    "losses": "24"
+  },
+  {
+    "team": "Minnesota North Stars",
+    "year": "1990",
+    "wins": "27",
+    "losses": "39"
+  },
+  {
+    "team": "Montreal Canadiens",
+    "year": "1990",
+    "wins": "39",
+    "losses": "30"
+  },
+  {
+    "team": "New Jersey Devils",
+    "year": "1990",
+    "wins": "32",
+    "losses": "33"
+  },
+  {
+    "team": "New York Islanders",
+    "year": "1990",
+    "wins": "25",
+    "losses": "45"
+  },
+  {
+    "team": "New York Rangers",
+    "year": "1990",
+    "wins": "36",
+    "losses": "31"
+  },
+  {
+    "team": "Philadelphia Flyers",
+    "year": "1990",
+    "wins": "33",
+    "losses": "37"
+  },
+  {
+    "team": "Pittsburgh Penguins",
+    "year": "1990",
+    "wins": "41",
+    "losses": "33"
+  },
+  {
+    "team": "Quebec Nordiques",
+    "year": "1990",
+    "wins": "16",
+    "losses": "50"
+  },
+  {
+    "team": "St. Louis Blues",
+    "year": "1990",
+    "wins": "47",
+    "losses": "22"
+  },
+  {
+    "team": "Toronto Maple Leafs",
+    "year": "1990",
+    "wins": "23",
+    "losses": "46"
+  },
+  {
+    "team": "Vancouver Canucks",
+    "year": "1990",
+    "wins": "28",
+    "losses": "43"
+  },
+  {
+    "team": "Washington Capitals",
+    "year": "1990",
+    "wins": "37",
+    "losses": "36"
+  },
+  {
+    "team": "Winnipeg Jets",
+    "year": "1990",
+    "wins": "26",
+    "losses": "43"
+  },
+  {
+    "team": "Boston Bruins",
+    "year": "1991",
+    "wins": "36",
+    "losses": "32"
+  },
+  {
+    "team": "Buffalo Sabres",
+    "year": "1991",
+    "wins": "31",
+    "losses": "37"
+  },
+  {
+    "team": "Calgary Flames",
+    "year": "1991",
+    "wins": "31",
+    "losses": "37"
+  },
+  {
+    "team": "Chicago Blackhawks",
+    "year": "1991",
+    "wins": "36",
+    "losses": "29"
+  },
+  {
+    "team": "Detroit Red Wings",
+    "year": "1991",
+    "wins": "43",
+    "losses": "25"
+  },
+  {
+    "team": "Edmonton Oilers",
+    "year": "1991",
+    "wins": "36",
+    "losses": "34"
+  },
+  {
+    "team": "Hartford Whalers",
+    "year": "1991",
+    "wins": "26",
+    "losses": "41"
+  },
+  {
+    "team": "Los Angeles Kings",
+    "year": "1991",
+    "wins": "35",
+    "losses": "31"
+  },
+  {
+    "team": "Minnesota North Stars",
+    "year": "1991",
+    "wins": "32",
+    "losses": "42"
+  },
+  {
+    "team": "Montreal Canadiens",
+    "year": "1991",
+    "wins": "41",
+    "losses": "28"
+  },
+  {
+    "team": "New Jersey Devils",
+    "year": "1991",
+    "wins": "38",
+    "losses": "31"
+  },
+  {
+    "team": "New York Islanders",
+    "year": "1991",
+    "wins": "34",
+    "losses": "35"
+  },
+  {
+    "team": "New York Rangers",
+    "year": "1991",
+    "wins": "50",
+    "losses": "25"
+  },
+  {
+    "team": "Philadelphia Flyers",
+    "year": "1991",
+    "wins": "32",
+    "losses": "37"
+  },
+  {
+    "team": "Pittsburgh Penguins",
+    "year": "1991",
+    "wins": "39",
+    "losses": "32"
+  },
+  {
+    "team": "Quebec Nordiques",
+    "year": "1991",
+    "wins": "20",
+    "losses": "48"
+  },
+  {
+    "team": "San Jose Sharks",
+    "year": "1991",
+    "wins": "17",
+    "losses": "58"
+  },
+  {
+    "team": "St. Louis Blues",
+    "year": "1991",
+    "wins": "36",
+    "losses": "33"
+  },
+  {
+    "team": "Toronto Maple Leafs",
+    "year": "1991",
+    "wins": "30",
+    "losses": "43"
+  },
+  {
+    "team": "Vancouver Canucks",
+    "year": "1991",
+    "wins": "42",
+    "losses": "26"
+  },
+  {
+    "team": "Washington Capitals",
+    "year": "1991",
+    "wins": "45",
+    "losses": "27"
+  },
+  {
+    "team": "Winnipeg Jets",
+    "year": "1991",
+    "wins": "33",
+    "losses": "32"
+  },
+  {
+    "team": "Boston Bruins",
+    "year": "1992",
+    "wins": "51",
+    "losses": "26"
+  },
+  {
+    "team": "Buffalo Sabres",
+    "year": "1992",
+    "wins": "38",
+    "losses": "36"
+  },
+  {
+    "team": "Calgary Flames",
+    "year": "1992",
+    "wins": "43",
+    "losses": "30"
+  },
+  {
+    "team": "Chicago Blackhawks",
+    "year": "1992",
+    "wins": "47",
+    "losses": "25"
+  },
+  {
+    "team": "Detroit Red Wings",
+    "year": "1992",
+    "wins": "47",
+    "losses": "28"
+  },
+  {
+    "team": "Edmonton Oilers",
+    "year": "1992",
+    "wins": "26",
+    "losses": "50"
+  },
+  {
+    "team": "Hartford Whalers",
+    "year": "1992",
+    "wins": "26",
+    "losses": "52"
+  },
+  {
+    "team": "Los Angeles Kings",
+    "year": "1992",
+    "wins": "39",
+    "losses": "35"
+  },
+  {
+    "team": "Minnesota North Stars",
+    "year": "1992",
+    "wins": "36",
+    "losses": "38"
+  },
+  {
+    "team": "Montreal Canadiens",
+    "year": "1992",
+    "wins": "48",
+    "losses": "30"
+  },
+  {
+    "team": "New Jersey Devils",
+    "year": "1992",
+    "wins": "40",
+    "losses": "37"
+  },
+  {
+    "team": "New York Islanders",
+    "year": "1992",
+    "wins": "40",
+    "losses": "37"
+  },
+  {
+    "team": "New York Rangers",
+    "year": "1992",
+    "wins": "34",
+    "losses": "39"
+  },
+  {
+    "team": "Ottawa Senators",
+    "year": "1992",
+    "wins": "10",
+    "losses": "70"
+  },
+  {
+    "team": "Philadelphia Flyers",
+    "year": "1992",
+    "wins": "36",
+    "losses": "37"
+  },
+  {
+    "team": "Pittsburgh Penguins",
+    "year": "1992",
+    "wins": "56",
+    "losses": "21"
+  },
+  {
+    "team": "Quebec Nordiques",
+    "year": "1992",
+    "wins": "47",
+    "losses": "27"
+  },
+  {
+    "team": "San Jose Sharks",
+    "year": "1992",
+    "wins": "11",
+    "losses": "71"
+  },
+  {
+    "team": "St. Louis Blues",
+    "year": "1992",
+    "wins": "37",
+    "losses": "36"
+  },
+  {
+    "team": "Tampa Bay Lightning",
+    "year": "1992",
+    "wins": "23",
+    "losses": "54"
+  },
+  {
+    "team": "Toronto Maple Leafs",
+    "year": "1992",
+    "wins": "44",
+    "losses": "29"
+  },
+  {
+    "team": "Vancouver Canucks",
+    "year": "1992",
+    "wins": "46",
+    "losses": "29"
+  },
+  {
+    "team": "Washington Capitals",
+    "year": "1992",
+    "wins": "43",
+    "losses": "34"
+  },
+  {
+    "team": "Winnipeg Jets",
+    "year": "1992",
+    "wins": "40",
+    "losses": "37"
+  },
+  {
+    "team": "Mighty Ducks of Anaheim",
+    "year": "1993",
+    "wins": "33",
+    "losses": "46"
+  },
+  {
+    "team": "Boston Bruins",
+    "year": "1993",
+    "wins": "42",
+    "losses": "29"
+  },
+  {
+    "team": "Buffalo Sabres",
+    "year": "1993",
+    "wins": "43",
+    "losses": "32"
+  },
+  {
+    "team": "Calgary Flames",
+    "year": "1993",
+    "wins": "42",
+    "losses": "29"
+  },
+  {
+    "team": "Chicago Blackhawks",
+    "year": "1993",
+    "wins": "39",
+    "losses": "36"
+  },
+  {
+    "team": "Dallas Stars",
+    "year": "1993",
+    "wins": "42",
+    "losses": "29"
+  },
+  {
+    "team": "Detroit Red Wings",
+    "year": "1993",
+    "wins": "46",
+    "losses": "30"
+  },
+  {
+    "team": "Edmonton Oilers",
+    "year": "1993",
+    "wins": "25",
+    "losses": "45"
+  },
+  {
+    "team": "Florida Panthers",
+    "year": "1993",
+    "wins": "33",
+    "losses": "34"
+  },
+  {
+    "team": "Hartford Whalers",
+    "year": "1993",
+    "wins": "27",
+    "losses": "48"
+  },
+  {
+    "team": "Los Angeles Kings",
+    "year": "1993",
+    "wins": "27",
+    "losses": "45"
+  },
+  {
+    "team": "Montreal Canadiens",
+    "year": "1993",
+    "wins": "41",
+    "losses": "29"
+  },
+  {
+    "team": "New Jersey Devils",
+    "year": "1993",
+    "wins": "47",
+    "losses": "25"
+  },
+  {
+    "team": "New York Islanders",
+    "year": "1993",
+    "wins": "36",
+    "losses": "36"
+  },
+  {
+    "team": "New York Rangers",
+    "year": "1993",
+    "wins": "52",
+    "losses": "24"
+  },
+  {
+    "team": "Ottawa Senators",
+    "year": "1993",
+    "wins": "14",
+    "losses": "61"
+  },
+  {
+    "team": "Philadelphia Flyers",
+    "year": "1993",
+    "wins": "35",
+    "losses": "39"
+  },
+  {
+    "team": "Pittsburgh Penguins",
+    "year": "1993",
+    "wins": "44",
+    "losses": "27"
+  },
+  {
+    "team": "Quebec Nordiques",
+    "year": "1993",
+    "wins": "34",
+    "losses": "42"
+  },
+  {
+    "team": "San Jose Sharks",
+    "year": "1993",
+    "wins": "33",
+    "losses": "35"
+  },
+  {
+    "team": "St. Louis Blues",
+    "year": "1993",
+    "wins": "40",
+    "losses": "33"
+  },
+  {
+    "team": "Tampa Bay Lightning",
+    "year": "1993",
+    "wins": "30",
+    "losses": "43"
+  },
+  {
+    "team": "Toronto Maple Leafs",
+    "year": "1993",
+    "wins": "43",
+    "losses": "29"
+  },
+  {
+    "team": "Vancouver Canucks",
+    "year": "1993",
+    "wins": "41",
+    "losses": "40"
+  },
+  {
+    "team": "Washington Capitals",
+    "year": "1993",
+    "wins": "39",
+    "losses": "35"
+  },
+  {
+    "team": "Winnipeg Jets",
+    "year": "1993",
+    "wins": "24",
+    "losses": "51"
+  },
+  {
+    "team": "Mighty Ducks of Anaheim",
+    "year": "1994",
+    "wins": "16",
+    "losses": "27"
+  },
+  {
+    "team": "Boston Bruins",
+    "year": "1994",
+    "wins": "27",
+    "losses": "18"
+  },
+  {
+    "team": "Buffalo Sabres",
+    "year": "1994",
+    "wins": "22",
+    "losses": "19"
+  },
+  {
+    "team": "Calgary Flames",
+    "year": "1994",
+    "wins": "24",
+    "losses": "17"
+  },
+  {
+    "team": "Chicago Blackhawks",
+    "year": "1994",
+    "wins": "24",
+    "losses": "19"
+  },
+  {
+    "team": "Dallas Stars",
+    "year": "1994",
+    "wins": "17",
+    "losses": "23"
+  },
+  {
+    "team": "Detroit Red Wings",
+    "year": "1994",
+    "wins": "33",
+    "losses": "11"
+  },
+  {
+    "team": "Edmonton Oilers",
+    "year": "1994",
+    "wins": "17",
+    "losses": "27"
+  },
+  {
+    "team": "Florida Panthers",
+    "year": "1994",
+    "wins": "20",
+    "losses": "22"
+  },
+  {
+    "team": "Hartford Whalers",
+    "year": "1994",
+    "wins": "19",
+    "losses": "24"
+  },
+  {
+    "team": "Los Angeles Kings",
+    "year": "1994",
+    "wins": "16",
+    "losses": "23"
+  },
+  {
+    "team": "Montreal Canadiens",
+    "year": "1994",
+    "wins": "18",
+    "losses": "23"
+  },
+  {
+    "team": "New Jersey Devils",
+    "year": "1994",
+    "wins": "22",
+    "losses": "18"
+  },
+  {
+    "team": "New York Islanders",
+    "year": "1994",
+    "wins": "15",
+    "losses": "28"
+  },
+  {
+    "team": "New York Rangers",
+    "year": "1994",
+    "wins": "22",
+    "losses": "23"
+  },
+  {
+    "team": "Ottawa Senators",
+    "year": "1994",
+    "wins": "9",
+    "losses": "34"
+  },
+  {
+    "team": "Philadelphia Flyers",
+    "year": "1994",
+    "wins": "28",
+    "losses": "16"
+  },
+  {
+    "team": "Pittsburgh Penguins",
+    "year": "1994",
+    "wins": "29",
+    "losses": "16"
+  },
+  {
+    "team": "Quebec Nordiques",
+    "year": "1994",
+    "wins": "30",
+    "losses": "13"
+  },
+  {
+    "team": "San Jose Sharks",
+    "year": "1994",
+    "wins": "19",
+    "losses": "25"
+  },
+  {
+    "team": "St. Louis Blues",
+    "year": "1994",
+    "wins": "28",
+    "losses": "15"
+  },
+  {
+    "team": "Tampa Bay Lightning",
+    "year": "1994",
+    "wins": "17",
+    "losses": "28"
+  },
+  {
+    "team": "Toronto Maple Leafs",
+    "year": "1994",
+    "wins": "21",
+    "losses": "19"
+  },
+  {
+    "team": "Vancouver Canucks",
+    "year": "1994",
+    "wins": "18",
+    "losses": "18"
+  },
+  {
+    "team": "Washington Capitals",
+    "year": "1994",
+    "wins": "22",
+    "losses": "18"
+  },
+  {
+    "team": "Winnipeg Jets",
+    "year": "1994",
+    "wins": "16",
+    "losses": "25"
+  },
+  {
+    "team": "Mighty Ducks of Anaheim",
+    "year": "1995",
+    "wins": "35",
+    "losses": "39"
+  },
+  {
+    "team": "Boston Bruins",
+    "year": "1995",
+    "wins": "40",
+    "losses": "31"
+  },
+  {
+    "team": "Buffalo Sabres",
+    "year": "1995",
+    "wins": "33",
+    "losses": "42"
+  },
+  {
+    "team": "Calgary Flames",
+    "year": "1995",
+    "wins": "34",
+    "losses": "37"
+  },
+  {
+    "team": "Chicago Blackhawks",
+    "year": "1995",
+    "wins": "40",
+    "losses": "28"
+  },
+  {
+    "team": "Colorado Avalanche",
+    "year": "1995",
+    "wins": "47",
+    "losses": "25"
+  },
+  {
+    "team": "Dallas Stars",
+    "year": "1995",
+    "wins": "26",
+    "losses": "42"
+  },
+  {
+    "team": "Detroit Red Wings",
+    "year": "1995",
+    "wins": "62",
+    "losses": "13"
+  },
+  {
+    "team": "Edmonton Oilers",
+    "year": "1995",
+    "wins": "30",
+    "losses": "44"
+  },
+  {
+    "team": "Florida Panthers",
+    "year": "1995",
+    "wins": "41",
+    "losses": "31"
+  },
+  {
+    "team": "Hartford Whalers",
+    "year": "1995",
+    "wins": "34",
+    "losses": "39"
+  },
+  {
+    "team": "Los Angeles Kings",
+    "year": "1995",
+    "wins": "24",
+    "losses": "40"
+  },
+  {
+    "team": "Montreal Canadiens",
+    "year": "1995",
+    "wins": "40",
+    "losses": "32"
+  },
+  {
+    "team": "New Jersey Devils",
+    "year": "1995",
+    "wins": "37",
+    "losses": "33"
+  },
+  {
+    "team": "New York Islanders",
+    "year": "1995",
+    "wins": "22",
+    "losses": "50"
+  },
+  {
+    "team": "New York Rangers",
+    "year": "1995",
+    "wins": "41",
+    "losses": "27"
+  },
+  {
+    "team": "Ottawa Senators",
+    "year": "1995",
+    "wins": "18",
+    "losses": "59"
+  },
+  {
+    "team": "Philadelphia Flyers",
+    "year": "1995",
+    "wins": "45",
+    "losses": "24"
+  },
+  {
+    "team": "Pittsburgh Penguins",
+    "year": "1995",
+    "wins": "49",
+    "losses": "29"
+  },
+  {
+    "team": "San Jose Sharks",
+    "year": "1995",
+    "wins": "20",
+    "losses": "55"
+  },
+  {
+    "team": "St. Louis Blues",
+    "year": "1995",
+    "wins": "32",
+    "losses": "34"
+  },
+  {
+    "team": "Tampa Bay Lightning",
+    "year": "1995",
+    "wins": "38",
+    "losses": "32"
+  },
+  {
+    "team": "Toronto Maple Leafs",
+    "year": "1995",
+    "wins": "34",
+    "losses": "36"
+  },
+  {
+    "team": "Vancouver Canucks",
+    "year": "1995",
+    "wins": "32",
+    "losses": "35"
+  },
+  {
+    "team": "Washington Capitals",
+    "year": "1995",
+    "wins": "39",
+    "losses": "32"
+  },
+  {
+    "team": "Winnipeg Jets",
+    "year": "1995",
+    "wins": "36",
+    "losses": "40"
+  },
+  {
+    "team": "Mighty Ducks of Anaheim",
+    "year": "1996",
+    "wins": "36",
+    "losses": "33"
+  },
+  {
+    "team": "Boston Bruins",
+    "year": "1996",
+    "wins": "26",
+    "losses": "47"
+  },
+  {
+    "team": "Buffalo Sabres",
+    "year": "1996",
+    "wins": "40",
+    "losses": "30"
+  },
+  {
+    "team": "Calgary Flames",
+    "year": "1996",
+    "wins": "32",
+    "losses": "41"
+  },
+  {
+    "team": "Chicago Blackhawks",
+    "year": "1996",
+    "wins": "34",
+    "losses": "35"
+  },
+  {
+    "team": "Colorado Avalanche",
+    "year": "1996",
+    "wins": "49",
+    "losses": "24"
+  },
+  {
+    "team": "Dallas Stars",
+    "year": "1996",
+    "wins": "48",
+    "losses": "26"
+  },
+  {
+    "team": "Detroit Red Wings",
+    "year": "1996",
+    "wins": "38",
+    "losses": "26"
+  },
+  {
+    "team": "Edmonton Oilers",
+    "year": "1996",
+    "wins": "36",
+    "losses": "37"
+  },
+  {
+    "team": "Florida Panthers",
+    "year": "1996",
+    "wins": "35",
+    "losses": "28"
+  },
+  {
+    "team": "Hartford Whalers",
+    "year": "1996",
+    "wins": "32",
+    "losses": "39"
+  },
+  {
+    "team": "Los Angeles Kings",
+    "year": "1996",
+    "wins": "28",
+    "losses": "43"
+  },
+  {
+    "team": "Montreal Canadiens",
+    "year": "1996",
+    "wins": "31",
+    "losses": "36"
+  },
+  {
+    "team": "New Jersey Devils",
+    "year": "1996",
+    "wins": "45",
+    "losses": "23"
+  },
+  {
+    "team": "New York Islanders",
+    "year": "1996",
+    "wins": "29",
+    "losses": "41"
+  },
+  {
+    "team": "New York Rangers",
+    "year": "1996",
+    "wins": "38",
+    "losses": "34"
+  },
+  {
+    "team": "Ottawa Senators",
+    "year": "1996",
+    "wins": "31",
+    "losses": "36"
+  },
+  {
+    "team": "Philadelphia Flyers",
+    "year": "1996",
+    "wins": "45",
+    "losses": "24"
+  },
+  {
+    "team": "Phoenix Coyotes",
+    "year": "1996",
+    "wins": "38",
+    "losses": "37"
+  },
+  {
+    "team": "Pittsburgh Penguins",
+    "year": "1996",
+    "wins": "38",
+    "losses": "36"
+  },
+  {
+    "team": "San Jose Sharks",
+    "year": "1996",
+    "wins": "27",
+    "losses": "47"
+  },
+  {
+    "team": "St. Louis Blues",
+    "year": "1996",
+    "wins": "36",
+    "losses": "35"
+  },
+  {
+    "team": "Tampa Bay Lightning",
+    "year": "1996",
+    "wins": "32",
+    "losses": "40"
+  },
+  {
+    "team": "Toronto Maple Leafs",
+    "year": "1996",
+    "wins": "30",
+    "losses": "44"
+  },
+  {
+    "team": "Vancouver Canucks",
+    "year": "1996",
+    "wins": "35",
+    "losses": "40"
+  },
+  {
+    "team": "Washington Capitals",
+    "year": "1996",
+    "wins": "33",
+    "losses": "40"
+  },
+  {
+    "team": "Mighty Ducks of Anaheim",
+    "year": "1997",
+    "wins": "26",
+    "losses": "43"
+  },
+  {
+    "team": "Boston Bruins",
+    "year": "1997",
+    "wins": "39",
+    "losses": "30"
+  },
+  {
+    "team": "Buffalo Sabres",
+    "year": "1997",
+    "wins": "36",
+    "losses": "29"
+  },
+  {
+    "team": "Calgary Flames",
+    "year": "1997",
+    "wins": "26",
+    "losses": "41"
+  },
+  {
+    "team": "Carolina Hurricanes",
+    "year": "1997",
+    "wins": "33",
+    "losses": "41"
+  },
+  {
+    "team": "Chicago Blackhawks",
+    "year": "1997",
+    "wins": "30",
+    "losses": "39"
+  },
+  {
+    "team": "Colorado Avalanche",
+    "year": "1997",
+    "wins": "39",
+    "losses": "26"
+  },
+  {
+    "team": "Dallas Stars",
+    "year": "1997",
+    "wins": "49",
+    "losses": "22"
+  },
+  {
+    "team": "Detroit Red Wings",
+    "year": "1997",
+    "wins": "44",
+    "losses": "23"
+  },
+  {
+    "team": "Edmonton Oilers",
+    "year": "1997",
+    "wins": "35",
+    "losses": "37"
+  },
+  {
+    "team": "Florida Panthers",
+    "year": "1997",
+    "wins": "24",
+    "losses": "43"
+  },
+  {
+    "team": "Los Angeles Kings",
+    "year": "1997",
+    "wins": "38",
+    "losses": "33"
+  },
+  {
+    "team": "Montreal Canadiens",
+    "year": "1997",
+    "wins": "37",
+    "losses": "32"
+  },
+  {
+    "team": "New Jersey Devils",
+    "year": "1997",
+    "wins": "48",
+    "losses": "23"
+  },
+  {
+    "team": "New York Islanders",
+    "year": "1997",
+    "wins": "30",
+    "losses": "41"
+  },
+  {
+    "team": "New York Rangers",
+    "year": "1997",
+    "wins": "25",
+    "losses": "39"
+  },
+  {
+    "team": "Ottawa Senators",
+    "year": "1997",
+    "wins": "34",
+    "losses": "33"
+  },
+  {
+    "team": "Philadelphia Flyers",
+    "year": "1997",
+    "wins": "42",
+    "losses": "29"
+  },
+  {
+    "team": "Phoenix Coyotes",
+    "year": "1997",
+    "wins": "35",
+    "losses": "35"
+  },
+  {
+    "team": "Pittsburgh Penguins",
+    "year": "1997",
+    "wins": "40",
+    "losses": "24"
+  },
+  {
+    "team": "San Jose Sharks",
+    "year": "1997",
+    "wins": "34",
+    "losses": "38"
+  },
+  {
+    "team": "St. Louis Blues",
+    "year": "1997",
+    "wins": "45",
+    "losses": "29"
+  },
+  {
+    "team": "Tampa Bay Lightning",
+    "year": "1997",
+    "wins": "17",
+    "losses": "55"
+  },
+  {
+    "team": "Toronto Maple Leafs",
+    "year": "1997",
+    "wins": "30",
+    "losses": "43"
+  },
+  {
+    "team": "Vancouver Canucks",
+    "year": "1997",
+    "wins": "25",
+    "losses": "43"
+  },
+  {
+    "team": "Washington Capitals",
+    "year": "1997",
+    "wins": "40",
+    "losses": "30"
+  },
+  {
+    "team": "Mighty Ducks of Anaheim",
+    "year": "1998",
+    "wins": "35",
+    "losses": "34"
+  },
+  {
+    "team": "Boston Bruins",
+    "year": "1998",
+    "wins": "39",
+    "losses": "30"
+  },
+  {
+    "team": "Buffalo Sabres",
+    "year": "1998",
+    "wins": "37",
+    "losses": "28"
+  },
+  {
+    "team": "Calgary Flames",
+    "year": "1998",
+    "wins": "30",
+    "losses": "40"
+  },
+  {
+    "team": "Carolina Hurricanes",
+    "year": "1998",
+    "wins": "34",
+    "losses": "30"
+  },
+  {
+    "team": "Chicago Blackhawks",
+    "year": "1998",
+    "wins": "29",
+    "losses": "41"
+  },
+  {
+    "team": "Colorado Avalanche",
+    "year": "1998",
+    "wins": "44",
+    "losses": "28"
+  },
+  {
+    "team": "Dallas Stars",
+    "year": "1998",
+    "wins": "51",
+    "losses": "19"
+  },
+  {
+    "team": "Detroit Red Wings",
+    "year": "1998",
+    "wins": "43",
+    "losses": "32"
+  },
+  {
+    "team": "Edmonton Oilers",
+    "year": "1998",
+    "wins": "33",
+    "losses": "37"
+  },
+  {
+    "team": "Florida Panthers",
+    "year": "1998",
+    "wins": "30",
+    "losses": "34"
+  },
+  {
+    "team": "Los Angeles Kings",
+    "year": "1998",
+    "wins": "32",
+    "losses": "45"
+  },
+  {
+    "team": "Montreal Canadiens",
+    "year": "1998",
+    "wins": "32",
+    "losses": "39"
+  },
+  {
+    "team": "Nashville Predators",
+    "year": "1998",
+    "wins": "28",
+    "losses": "47"
+  },
+  {
+    "team": "New Jersey Devils",
+    "year": "1998",
+    "wins": "47",
+    "losses": "24"
+  },
+  {
+    "team": "New York Islanders",
+    "year": "1998",
+    "wins": "24",
+    "losses": "48"
+  },
+  {
+    "team": "New York Rangers",
+    "year": "1998",
+    "wins": "33",
+    "losses": "38"
+  },
+  {
+    "team": "Ottawa Senators",
+    "year": "1998",
+    "wins": "44",
+    "losses": "23"
+  },
+  {
+    "team": "Philadelphia Flyers",
+    "year": "1998",
+    "wins": "37",
+    "losses": "26"
+  },
+  {
+    "team": "Phoenix Coyotes",
+    "year": "1998",
+    "wins": "39",
+    "losses": "31"
+  },
+  {
+    "team": "Pittsburgh Penguins",
+    "year": "1998",
+    "wins": "38",
+    "losses": "30"
+  },
+  {
+    "team": "San Jose Sharks",
+    "year": "1998",
+    "wins": "31",
+    "losses": "33"
+  },
+  {
+    "team": "St. Louis Blues",
+    "year": "1998",
+    "wins": "37",
+    "losses": "32"
+  },
+  {
+    "team": "Tampa Bay Lightning",
+    "year": "1998",
+    "wins": "19",
+    "losses": "54"
+  },
+  {
+    "team": "Toronto Maple Leafs",
+    "year": "1998",
+    "wins": "45",
+    "losses": "30"
+  },
+  {
+    "team": "Vancouver Canucks",
+    "year": "1998",
+    "wins": "23",
+    "losses": "47"
+  },
+  {
+    "team": "Washington Capitals",
+    "year": "1998",
+    "wins": "31",
+    "losses": "45"
+  },
+  {
+    "team": "Mighty Ducks of Anaheim",
+    "year": "1999",
+    "wins": "34",
+    "losses": "33"
+  },
+  {
+    "team": "Atlanta Thrashers",
+    "year": "1999",
+    "wins": "14",
+    "losses": "57"
+  },
+  {
+    "team": "Boston Bruins",
+    "year": "1999",
+    "wins": "24",
+    "losses": "33"
+  },
+  {
+    "team": "Buffalo Sabres",
+    "year": "1999",
+    "wins": "35",
+    "losses": "32"
+  },
+  {
+    "team": "Calgary Flames",
+    "year": "1999",
+    "wins": "31",
+    "losses": "36"
+  },
+  {
+    "team": "Carolina Hurricanes",
+    "year": "1999",
+    "wins": "37",
+    "losses": "35"
+  },
+  {
+    "team": "Chicago Blackhawks",
+    "year": "1999",
+    "wins": "33",
+    "losses": "37"
+  },
+  {
+    "team": "Colorado Avalanche",
+    "year": "1999",
+    "wins": "42",
+    "losses": "28"
+  },
+  {
+    "team": "Dallas Stars",
+    "year": "1999",
+    "wins": "43",
+    "losses": "23"
+  },
+  {
+    "team": "Detroit Red Wings",
+    "year": "1999",
+    "wins": "48",
+    "losses": "22"
+  },
+  {
+    "team": "Edmonton Oilers",
+    "year": "1999",
+    "wins": "32",
+    "losses": "26"
+  },
+  {
+    "team": "Florida Panthers",
+    "year": "1999",
+    "wins": "43",
+    "losses": "27"
+  },
+  {
+    "team": "Los Angeles Kings",
+    "year": "1999",
+    "wins": "39",
+    "losses": "27"
+  },
+  {
+    "team": "Montreal Canadiens",
+    "year": "1999",
+    "wins": "35",
+    "losses": "34"
+  },
+  {
+    "team": "Nashville Predators",
+    "year": "1999",
+    "wins": "28",
+    "losses": "40"
+  },
+  {
+    "team": "New Jersey Devils",
+    "year": "1999",
+    "wins": "45",
+    "losses": "24"
+  },
+  {
+    "team": "New York Islanders",
+    "year": "1999",
+    "wins": "24",
+    "losses": "48"
+  },
+  {
+    "team": "New York Rangers",
+    "year": "1999",
+    "wins": "29",
+    "losses": "38"
+  },
+  {
+    "team": "Ottawa Senators",
+    "year": "1999",
+    "wins": "41",
+    "losses": "28"
+  },
+  {
+    "team": "Philadelphia Flyers",
+    "year": "1999",
+    "wins": "45",
+    "losses": "22"
+  },
+  {
+    "team": "Phoenix Coyotes",
+    "year": "1999",
+    "wins": "39",
+    "losses": "31"
+  },
+  {
+    "team": "Pittsburgh Penguins",
+    "year": "1999",
+    "wins": "37",
+    "losses": "31"
+  },
+  {
+    "team": "San Jose Sharks",
+    "year": "1999",
+    "wins": "35",
+    "losses": "30"
+  },
+  {
+    "team": "St. Louis Blues",
+    "year": "1999",
+    "wins": "51",
+    "losses": "19"
+  },
+  {
+    "team": "Tampa Bay Lightning",
+    "year": "1999",
+    "wins": "19",
+    "losses": "47"
+  },
+  {
+    "team": "Toronto Maple Leafs",
+    "year": "1999",
+    "wins": "45",
+    "losses": "27"
+  },
+  {
+    "team": "Vancouver Canucks",
+    "year": "1999",
+    "wins": "30",
+    "losses": "29"
+  },
+  {
+    "team": "Washington Capitals",
+    "year": "1999",
+    "wins": "44",
+    "losses": "24"
+  },
+  {
+    "team": "Mighty Ducks of Anaheim",
+    "year": "2000",
+    "wins": "25",
+    "losses": "41"
+  },
+  {
+    "team": "Atlanta Thrashers",
+    "year": "2000",
+    "wins": "23",
+    "losses": "45"
+  },
+  {
+    "team": "Boston Bruins",
+    "year": "2000",
+    "wins": "36",
+    "losses": "30"
+  },
+  {
+    "team": "Buffalo Sabres",
+    "year": "2000",
+    "wins": "46",
+    "losses": "30"
+  },
+  {
+    "team": "Calgary Flames",
+    "year": "2000",
+    "wins": "27",
+    "losses": "36"
+  },
+  {
+    "team": "Carolina Hurricanes",
+    "year": "2000",
+    "wins": "38",
+    "losses": "32"
+  },
+  {
+    "team": "Columbus Blue Jackets",
+    "year": "2000",
+    "wins": "28",
+    "losses": "39"
+  },
+  {
+    "team": "Chicago Blackhawks",
+    "year": "2000",
+    "wins": "29",
+    "losses": "40"
+  },
+  {
+    "team": "Colorado Avalanche",
+    "year": "2000",
+    "wins": "52",
+    "losses": "16"
+  },
+  {
+    "team": "Dallas Stars",
+    "year": "2000",
+    "wins": "48",
+    "losses": "24"
+  },
+  {
+    "team": "Detroit Red Wings",
+    "year": "2000",
+    "wins": "49",
+    "losses": "20"
+  },
+  {
+    "team": "Edmonton Oilers",
+    "year": "2000",
+    "wins": "39",
+    "losses": "28"
+  },
+  {
+    "team": "Florida Panthers",
+    "year": "2000",
+    "wins": "22",
+    "losses": "38"
+  },
+  {
+    "team": "Los Angeles Kings",
+    "year": "2000",
+    "wins": "38",
+    "losses": "28"
+  },
+  {
+    "team": "Minnesota Wild",
+    "year": "2000",
+    "wins": "25",
+    "losses": "39"
+  },
+  {
+    "team": "Montreal Canadiens",
+    "year": "2000",
+    "wins": "28",
+    "losses": "40"
+  },
+  {
+    "team": "Nashville Predators",
+    "year": "2000",
+    "wins": "34",
+    "losses": "36"
+  },
+  {
+    "team": "New Jersey Devils",
+    "year": "2000",
+    "wins": "48",
+    "losses": "19"
+  },
+  {
+    "team": "New York Islanders",
+    "year": "2000",
+    "wins": "21",
+    "losses": "51"
+  },
+  {
+    "team": "New York Rangers",
+    "year": "2000",
+    "wins": "33",
+    "losses": "43"
+  },
+  {
+    "team": "Ottawa Senators",
+    "year": "2000",
+    "wins": "48",
+    "losses": "21"
+  },
+  {
+    "team": "Philadelphia Flyers",
+    "year": "2000",
+    "wins": "43",
+    "losses": "25"
+  },
+  {
+    "team": "Phoenix Coyotes",
+    "year": "2000",
+    "wins": "35",
+    "losses": "27"
+  },
+  {
+    "team": "Pittsburgh Penguins",
+    "year": "2000",
+    "wins": "42",
+    "losses": "28"
+  },
+  {
+    "team": "San Jose Sharks",
+    "year": "2000",
+    "wins": "40",
+    "losses": "27"
+  },
+  {
+    "team": "St. Louis Blues",
+    "year": "2000",
+    "wins": "43",
+    "losses": "22"
+  },
+  {
+    "team": "Tampa Bay Lightning",
+    "year": "2000",
+    "wins": "24",
+    "losses": "47"
+  },
+  {
+    "team": "Toronto Maple Leafs",
+    "year": "2000",
+    "wins": "37",
+    "losses": "29"
+  },
+  {
+    "team": "Vancouver Canucks",
+    "year": "2000",
+    "wins": "36",
+    "losses": "28"
+  },
+  {
+    "team": "Washington Capitals",
+    "year": "2000",
+    "wins": "41",
+    "losses": "27"
+  },
+  {
+    "team": "Mighty Ducks of Anaheim",
+    "year": "2001",
+    "wins": "29",
+    "losses": "42"
+  },
+  {
+    "team": "Atlanta Thrashers",
+    "year": "2001",
+    "wins": "19",
+    "losses": "47"
+  },
+  {
+    "team": "Boston Bruins",
+    "year": "2001",
+    "wins": "43",
+    "losses": "24"
+  },
+  {
+    "team": "Buffalo Sabres",
+    "year": "2001",
+    "wins": "35",
+    "losses": "35"
+  },
+  {
+    "team": "Calgary Flames",
+    "year": "2001",
+    "wins": "32",
+    "losses": "35"
+  },
+  {
+    "team": "Carolina Hurricanes",
+    "year": "2001",
+    "wins": "35",
+    "losses": "26"
+  },
+  {
+    "team": "Columbus Blue Jackets",
+    "year": "2001",
+    "wins": "22",
+    "losses": "47"
+  },
+  {
+    "team": "Chicago Blackhawks",
+    "year": "2001",
+    "wins": "41",
+    "losses": "27"
+  },
+  {
+    "team": "Colorado Avalanche",
+    "year": "2001",
+    "wins": "45",
+    "losses": "28"
+  },
+  {
+    "team": "Dallas Stars",
+    "year": "2001",
+    "wins": "36",
+    "losses": "28"
+  },
+  {
+    "team": "Detroit Red Wings",
+    "year": "2001",
+    "wins": "51",
+    "losses": "17"
+  },
+  {
+    "team": "Edmonton Oilers",
+    "year": "2001",
+    "wins": "38",
+    "losses": "28"
+  },
+  {
+    "team": "Florida Panthers",
+    "year": "2001",
+    "wins": "22",
+    "losses": "44"
+  },
+  {
+    "team": "Los Angeles Kings",
+    "year": "2001",
+    "wins": "40",
+    "losses": "27"
+  },
+  {
+    "team": "Minnesota Wild",
+    "year": "2001",
+    "wins": "26",
+    "losses": "35"
+  },
+  {
+    "team": "Montreal Canadiens",
+    "year": "2001",
+    "wins": "36",
+    "losses": "31"
+  },
+  {
+    "team": "Nashville Predators",
+    "year": "2001",
+    "wins": "28",
+    "losses": "41"
+  },
+  {
+    "team": "New Jersey Devils",
+    "year": "2001",
+    "wins": "41",
+    "losses": "28"
+  },
+  {
+    "team": "New York Islanders",
+    "year": "2001",
+    "wins": "42",
+    "losses": "28"
+  },
+  {
+    "team": "New York Rangers",
+    "year": "2001",
+    "wins": "36",
+    "losses": "38"
+  },
+  {
+    "team": "Ottawa Senators",
+    "year": "2001",
+    "wins": "39",
+    "losses": "27"
+  },
+  {
+    "team": "Philadelphia Flyers",
+    "year": "2001",
+    "wins": "42",
+    "losses": "27"
+  },
+  {
+    "team": "Phoenix Coyotes",
+    "year": "2001",
+    "wins": "40",
+    "losses": "27"
+  },
+  {
+    "team": "Pittsburgh Penguins",
+    "year": "2001",
+    "wins": "28",
+    "losses": "41"
+  },
+  {
+    "team": "San Jose Sharks",
+    "year": "2001",
+    "wins": "44",
+    "losses": "27"
+  },
+  {
+    "team": "St. Louis Blues",
+    "year": "2001",
+    "wins": "43",
+    "losses": "27"
+  },
+  {
+    "team": "Tampa Bay Lightning",
+    "year": "2001",
+    "wins": "27",
+    "losses": "40"
+  },
+  {
+    "team": "Toronto Maple Leafs",
+    "year": "2001",
+    "wins": "43",
+    "losses": "25"
+  },
+  {
+    "team": "Vancouver Canucks",
+    "year": "2001",
+    "wins": "42",
+    "losses": "30"
+  },
+  {
+    "team": "Washington Capitals",
+    "year": "2001",
+    "wins": "36",
+    "losses": "33"
+  },
+  {
+    "team": "Mighty Ducks of Anaheim",
+    "year": "2002",
+    "wins": "40",
+    "losses": "27"
+  },
+  {
+    "team": "Atlanta Thrashers",
+    "year": "2002",
+    "wins": "31",
+    "losses": "39"
+  },
+  {
+    "team": "Boston Bruins",
+    "year": "2002",
+    "wins": "36",
+    "losses": "31"
+  },
+  {
+    "team": "Buffalo Sabres",
+    "year": "2002",
+    "wins": "27",
+    "losses": "37"
+  },
+  {
+    "team": "Calgary Flames",
+    "year": "2002",
+    "wins": "29",
+    "losses": "36"
+  },
+  {
+    "team": "Carolina Hurricanes",
+    "year": "2002",
+    "wins": "22",
+    "losses": "43"
+  },
+  {
+    "team": "Columbus Blue Jackets",
+    "year": "2002",
+    "wins": "29",
+    "losses": "42"
+  },
+  {
+    "team": "Chicago Blackhawks",
+    "year": "2002",
+    "wins": "30",
+    "losses": "33"
+  },
+  {
+    "team": "Colorado Avalanche",
+    "year": "2002",
+    "wins": "42",
+    "losses": "19"
+  },
+  {
+    "team": "Dallas Stars",
+    "year": "2002",
+    "wins": "46",
+    "losses": "17"
+  },
+  {
+    "team": "Detroit Red Wings",
+    "year": "2002",
+    "wins": "48",
+    "losses": "20"
+  },
+  {
+    "team": "Edmonton Oilers",
+    "year": "2002",
+    "wins": "36",
+    "losses": "26"
+  },
+  {
+    "team": "Florida Panthers",
+    "year": "2002",
+    "wins": "24",
+    "losses": "36"
+  },
+  {
+    "team": "Los Angeles Kings",
+    "year": "2002",
+    "wins": "33",
+    "losses": "37"
+  },
+  {
+    "team": "Minnesota Wild",
+    "year": "2002",
+    "wins": "42",
+    "losses": "29"
+  },
+  {
+    "team": "Montreal Canadiens",
+    "year": "2002",
+    "wins": "30",
+    "losses": "35"
+  },
+  {
+    "team": "Nashville Predators",
+    "year": "2002",
+    "wins": "27",
+    "losses": "35"
+  },
+  {
+    "team": "New Jersey Devils",
+    "year": "2002",
+    "wins": "46",
+    "losses": "20"
+  },
+  {
+    "team": "New York Islanders",
+    "year": "2002",
+    "wins": "35",
+    "losses": "34"
+  },
+  {
+    "team": "New York Rangers",
+    "year": "2002",
+    "wins": "32",
+    "losses": "36"
+  },
+  {
+    "team": "Ottawa Senators",
+    "year": "2002",
+    "wins": "52",
+    "losses": "21"
+  },
+  {
+    "team": "Philadelphia Flyers",
+    "year": "2002",
+    "wins": "45",
+    "losses": "20"
+  },
+  {
+    "team": "Phoenix Coyotes",
+    "year": "2002",
+    "wins": "31",
+    "losses": "35"
+  },
+  {
+    "team": "Pittsburgh Penguins",
+    "year": "2002",
+    "wins": "27",
+    "losses": "44"
+  },
+  {
+    "team": "San Jose Sharks",
+    "year": "2002",
+    "wins": "28",
+    "losses": "37"
+  },
+  {
+    "team": "St. Louis Blues",
+    "year": "2002",
+    "wins": "41",
+    "losses": "24"
+  },
+  {
+    "team": "Tampa Bay Lightning",
+    "year": "2002",
+    "wins": "36",
+    "losses": "25"
+  },
+  {
+    "team": "Toronto Maple Leafs",
+    "year": "2002",
+    "wins": "44",
+    "losses": "28"
+  },
+  {
+    "team": "Vancouver Canucks",
+    "year": "2002",
+    "wins": "45",
+    "losses": "23"
+  },
+  {
+    "team": "Washington Capitals",
+    "year": "2002",
+    "wins": "39",
+    "losses": "29"
+  },
+  {
+    "team": "Mighty Ducks of Anaheim",
+    "year": "2003",
+    "wins": "29",
+    "losses": "35"
+  },
+  {
+    "team": "Atlanta Thrashers",
+    "year": "2003",
+    "wins": "33",
+    "losses": "37"
+  },
+  {
+    "team": "Boston Bruins",
+    "year": "2003",
+    "wins": "41",
+    "losses": "19"
+  },
+  {
+    "team": "Buffalo Sabres",
+    "year": "2003",
+    "wins": "37",
+    "losses": "34"
+  },
+  {
+    "team": "Calgary Flames",
+    "year": "2003",
+    "wins": "42",
+    "losses": "30"
+  },
+  {
+    "team": "Carolina Hurricanes",
+    "year": "2003",
+    "wins": "28",
+    "losses": "34"
+  },
+  {
+    "team": "Columbus Blue Jackets",
+    "year": "2003",
+    "wins": "25",
+    "losses": "45"
+  },
+  {
+    "team": "Chicago Blackhawks",
+    "year": "2003",
+    "wins": "20",
+    "losses": "43"
+  },
+  {
+    "team": "Colorado Avalanche",
+    "year": "2003",
+    "wins": "40",
+    "losses": "22"
+  },
+  {
+    "team": "Dallas Stars",
+    "year": "2003",
+    "wins": "41",
+    "losses": "26"
+  },
+  {
+    "team": "Detroit Red Wings",
+    "year": "2003",
+    "wins": "48",
+    "losses": "21"
+  },
+  {
+    "team": "Edmonton Oilers",
+    "year": "2003",
+    "wins": "36",
+    "losses": "29"
+  },
+  {
+    "team": "Florida Panthers",
+    "year": "2003",
+    "wins": "28",
+    "losses": "35"
+  },
+  {
+    "team": "Los Angeles Kings",
+    "year": "2003",
+    "wins": "28",
+    "losses": "29"
+  },
+  {
+    "team": "Minnesota Wild",
+    "year": "2003",
+    "wins": "30",
+    "losses": "29"
+  },
+  {
+    "team": "Montreal Canadiens",
+    "year": "2003",
+    "wins": "41",
+    "losses": "30"
+  },
+  {
+    "team": "Nashville Predators",
+    "year": "2003",
+    "wins": "38",
+    "losses": "29"
+  },
+  {
+    "team": "New Jersey Devils",
+    "year": "2003",
+    "wins": "43",
+    "losses": "25"
+  },
+  {
+    "team": "New York Islanders",
+    "year": "2003",
+    "wins": "38",
+    "losses": "29"
+  },
+  {
+    "team": "New York Rangers",
+    "year": "2003",
+    "wins": "27",
+    "losses": "40"
+  },
+  {
+    "team": "Ottawa Senators",
+    "year": "2003",
+    "wins": "43",
+    "losses": "23"
+  },
+  {
+    "team": "Philadelphia Flyers",
+    "year": "2003",
+    "wins": "40",
+    "losses": "21"
+  },
+  {
+    "team": "Phoenix Coyotes",
+    "year": "2003",
+    "wins": "22",
+    "losses": "36"
+  },
+  {
+    "team": "Pittsburgh Penguins",
+    "year": "2003",
+    "wins": "23",
+    "losses": "47"
+  },
+  {
+    "team": "San Jose Sharks",
+    "year": "2003",
+    "wins": "43",
+    "losses": "21"
+  },
+  {
+    "team": "St. Louis Blues",
+    "year": "2003",
+    "wins": "39",
+    "losses": "30"
+  },
+  {
+    "team": "Tampa Bay Lightning",
+    "year": "2003",
+    "wins": "46",
+    "losses": "22"
+  },
+  {
+    "team": "Toronto Maple Leafs",
+    "year": "2003",
+    "wins": "45",
+    "losses": "24"
+  },
+  {
+    "team": "Vancouver Canucks",
+    "year": "2003",
+    "wins": "43",
+    "losses": "24"
+  },
+  {
+    "team": "Washington Capitals",
+    "year": "2003",
+    "wins": "23",
+    "losses": "46"
+  },
+  {
+    "team": "Mighty Ducks of Anaheim",
+    "year": "2005",
+    "wins": "43",
+    "losses": "27"
+  },
+  {
+    "team": "Atlanta Thrashers",
+    "year": "2005",
+    "wins": "41",
+    "losses": "33"
+  },
+  {
+    "team": "Boston Bruins",
+    "year": "2005",
+    "wins": "29",
+    "losses": "37"
+  },
+  {
+    "team": "Buffalo Sabres",
+    "year": "2005",
+    "wins": "52",
+    "losses": "24"
+  },
+  {
+    "team": "Calgary Flames",
+    "year": "2005",
+    "wins": "46",
+    "losses": "25"
+  },
+  {
+    "team": "Carolina Hurricanes",
+    "year": "2005",
+    "wins": "52",
+    "losses": "22"
+  },
+  {
+    "team": "Columbus Blue Jackets",
+    "year": "2005",
+    "wins": "35",
+    "losses": "43"
+  },
+  {
+    "team": "Chicago Blackhawks",
+    "year": "2005",
+    "wins": "26",
+    "losses": "43"
+  },
+  {
+    "team": "Colorado Avalanche",
+    "year": "2005",
+    "wins": "43",
+    "losses": "30"
+  },
+  {
+    "team": "Dallas Stars",
+    "year": "2005",
+    "wins": "53",
+    "losses": "23"
+  },
+  {
+    "team": "Detroit Red Wings",
+    "year": "2005",
+    "wins": "58",
+    "losses": "16"
+  },
+  {
+    "team": "Edmonton Oilers",
+    "year": "2005",
+    "wins": "41",
+    "losses": "28"
+  },
+  {
+    "team": "Florida Panthers",
+    "year": "2005",
+    "wins": "37",
+    "losses": "34"
+  },
+  {
+    "team": "Los Angeles Kings",
+    "year": "2005",
+    "wins": "42",
+    "losses": "35"
+  },
+  {
+    "team": "Minnesota Wild",
+    "year": "2005",
+    "wins": "38",
+    "losses": "36"
+  },
+  {
+    "team": "Montreal Canadiens",
+    "year": "2005",
+    "wins": "42",
+    "losses": "31"
+  },
+  {
+    "team": "Nashville Predators",
+    "year": "2005",
+    "wins": "49",
+    "losses": "25"
+  },
+  {
+    "team": "New Jersey Devils",
+    "year": "2005",
+    "wins": "46",
+    "losses": "27"
+  },
+  {
+    "team": "New York Islanders",
+    "year": "2005",
+    "wins": "36",
+    "losses": "40"
+  },
+  {
+    "team": "New York Rangers",
+    "year": "2005",
+    "wins": "44",
+    "losses": "26"
+  },
+  {
+    "team": "Ottawa Senators",
+    "year": "2005",
+    "wins": "52",
+    "losses": "21"
+  },
+  {
+    "team": "Philadelphia Flyers",
+    "year": "2005",
+    "wins": "45",
+    "losses": "26"
+  },
+  {
+    "team": "Phoenix Coyotes",
+    "year": "2005",
+    "wins": "38",
+    "losses": "39"
+  },
+  {
+    "team": "Pittsburgh Penguins",
+    "year": "2005",
+    "wins": "22",
+    "losses": "46"
+  },
+  {
+    "team": "San Jose Sharks",
+    "year": "2005",
+    "wins": "44",
+    "losses": "27"
+  },
+  {
+    "team": "St. Louis Blues",
+    "year": "2005",
+    "wins": "21",
+    "losses": "46"
+  },
+  {
+    "team": "Tampa Bay Lightning",
+    "year": "2005",
+    "wins": "43",
+    "losses": "33"
+  },
+  {
+    "team": "Toronto Maple Leafs",
+    "year": "2005",
+    "wins": "41",
+    "losses": "33"
+  },
+  {
+    "team": "Vancouver Canucks",
+    "year": "2005",
+    "wins": "42",
+    "losses": "32"
+  },
+  {
+    "team": "Washington Capitals",
+    "year": "2005",
+    "wins": "29",
+    "losses": "41"
+  },
+  {
+    "team": "Anaheim Ducks",
+    "year": "2006",
+    "wins": "48",
+    "losses": "20"
+  },
+  {
+    "team": "Atlanta Thrashers",
+    "year": "2006",
+    "wins": "43",
+    "losses": "28"
+  },
+  {
+    "team": "Boston Bruins",
+    "year": "2006",
+    "wins": "35",
+    "losses": "41"
+  },
+  {
+    "team": "Buffalo Sabres",
+    "year": "2006",
+    "wins": "53",
+    "losses": "22"
+  },
+  {
+    "team": "Calgary Flames",
+    "year": "2006",
+    "wins": "43",
+    "losses": "29"
+  },
+  {
+    "team": "Carolina Hurricanes",
+    "year": "2006",
+    "wins": "40",
+    "losses": "34"
+  },
+  {
+    "team": "Columbus Blue Jackets",
+    "year": "2006",
+    "wins": "33",
+    "losses": "42"
+  },
+  {
+    "team": "Chicago Blackhawks",
+    "year": "2006",
+    "wins": "31",
+    "losses": "42"
+  },
+  {
+    "team": "Colorado Avalanche",
+    "year": "2006",
+    "wins": "44",
+    "losses": "31"
+  },
+  {
+    "team": "Dallas Stars",
+    "year": "2006",
+    "wins": "50",
+    "losses": "25"
+  },
+  {
+    "team": "Detroit Red Wings",
+    "year": "2006",
+    "wins": "50",
+    "losses": "19"
+  },
+  {
+    "team": "Edmonton Oilers",
+    "year": "2006",
+    "wins": "32",
+    "losses": "43"
+  },
+  {
+    "team": "Florida Panthers",
+    "year": "2006",
+    "wins": "35",
+    "losses": "31"
+  },
+  {
+    "team": "Los Angeles Kings",
+    "year": "2006",
+    "wins": "27",
+    "losses": "41"
+  },
+  {
+    "team": "Minnesota Wild",
+    "year": "2006",
+    "wins": "48",
+    "losses": "26"
+  },
+  {
+    "team": "Montreal Canadiens",
+    "year": "2006",
+    "wins": "42",
+    "losses": "34"
+  },
+  {
+    "team": "Nashville Predators",
+    "year": "2006",
+    "wins": "51",
+    "losses": "23"
+  },
+  {
+    "team": "New Jersey Devils",
+    "year": "2006",
+    "wins": "49",
+    "losses": "24"
+  },
+  {
+    "team": "New York Islanders",
+    "year": "2006",
+    "wins": "40",
+    "losses": "30"
+  },
+  {
+    "team": "New York Rangers",
+    "year": "2006",
+    "wins": "42",
+    "losses": "30"
+  },
+  {
+    "team": "Ottawa Senators",
+    "year": "2006",
+    "wins": "48",
+    "losses": "25"
+  },
+  {
+    "team": "Philadelphia Flyers",
+    "year": "2006",
+    "wins": "22",
+    "losses": "48"
+  },
+  {
+    "team": "Phoenix Coyotes",
+    "year": "2006",
+    "wins": "31",
+    "losses": "46"
+  },
+  {
+    "team": "Pittsburgh Penguins",
+    "year": "2006",
+    "wins": "47",
+    "losses": "24"
+  },
+  {
+    "team": "San Jose Sharks",
+    "year": "2006",
+    "wins": "51",
+    "losses": "26"
+  },
+  {
+    "team": "St. Louis Blues",
+    "year": "2006",
+    "wins": "34",
+    "losses": "35"
+  },
+  {
+    "team": "Tampa Bay Lightning",
+    "year": "2006",
+    "wins": "44",
+    "losses": "33"
+  },
+  {
+    "team": "Toronto Maple Leafs",
+    "year": "2006",
+    "wins": "40",
+    "losses": "31"
+  },
+  {
+    "team": "Vancouver Canucks",
+    "year": "2006",
+    "wins": "49",
+    "losses": "26"
+  },
+  {
+    "team": "Washington Capitals",
+    "year": "2006",
+    "wins": "28",
+    "losses": "40"
+  },
+  {
+    "team": "Anaheim Ducks",
+    "year": "2007",
+    "wins": "47",
+    "losses": "27"
+  },
+  {
+    "team": "Atlanta Thrashers",
+    "year": "2007",
+    "wins": "34",
+    "losses": "40"
+  },
+  {
+    "team": "Boston Bruins",
+    "year": "2007",
+    "wins": "41",
+    "losses": "29"
+  },
+  {
+    "team": "Buffalo Sabres",
+    "year": "2007",
+    "wins": "39",
+    "losses": "31"
+  },
+  {
+    "team": "Calgary Flames",
+    "year": "2007",
+    "wins": "42",
+    "losses": "30"
+  },
+  {
+    "team": "Carolina Hurricanes",
+    "year": "2007",
+    "wins": "43",
+    "losses": "33"
+  },
+  {
+    "team": "Columbus Blue Jackets",
+    "year": "2007",
+    "wins": "34",
+    "losses": "36"
+  },
+  {
+    "team": "Chicago Blackhawks",
+    "year": "2007",
+    "wins": "40",
+    "losses": "34"
+  },
+  {
+    "team": "Colorado Avalanche",
+    "year": "2007",
+    "wins": "44",
+    "losses": "31"
+  },
+  {
+    "team": "Dallas Stars",
+    "year": "2007",
+    "wins": "45",
+    "losses": "30"
+  },
+  {
+    "team": "Detroit Red Wings",
+    "year": "2007",
+    "wins": "54",
+    "losses": "21"
+  },
+  {
+    "team": "Edmonton Oilers",
+    "year": "2007",
+    "wins": "41",
+    "losses": "35"
+  },
+  {
+    "team": "Florida Panthers",
+    "year": "2007",
+    "wins": "38",
+    "losses": "35"
+  },
+  {
+    "team": "Los Angeles Kings",
+    "year": "2007",
+    "wins": "32",
+    "losses": "43"
+  },
+  {
+    "team": "Minnesota Wild",
+    "year": "2007",
+    "wins": "44",
+    "losses": "28"
+  },
+  {
+    "team": "Montreal Canadiens",
+    "year": "2007",
+    "wins": "47",
+    "losses": "25"
+  },
+  {
+    "team": "Nashville Predators",
+    "year": "2007",
+    "wins": "41",
+    "losses": "32"
+  },
+  {
+    "team": "New Jersey Devils",
+    "year": "2007",
+    "wins": "46",
+    "losses": "29"
+  },
+  {
+    "team": "New York Islanders",
+    "year": "2007",
+    "wins": "35",
+    "losses": "38"
+  },
+  {
+    "team": "New York Rangers",
+    "year": "2007",
+    "wins": "42",
+    "losses": "27"
+  },
+  {
+    "team": "Ottawa Senators",
+    "year": "2007",
+    "wins": "43",
+    "losses": "31"
+  },
+  {
+    "team": "Philadelphia Flyers",
+    "year": "2007",
+    "wins": "42",
+    "losses": "29"
+  },
+  {
+    "team": "Phoenix Coyotes",
+    "year": "2007",
+    "wins": "38",
+    "losses": "37"
+  },
+  {
+    "team": "Pittsburgh Penguins",
+    "year": "2007",
+    "wins": "47",
+    "losses": "27"
+  },
+  {
+    "team": "San Jose Sharks",
+    "year": "2007",
+    "wins": "49",
+    "losses": "23"
+  },
+  {
+    "team": "St. Louis Blues",
+    "year": "2007",
+    "wins": "33",
+    "losses": "36"
+  },
+  {
+    "team": "Tampa Bay Lightning",
+    "year": "2007",
+    "wins": "31",
+    "losses": "42"
+  },
+  {
+    "team": "Toronto Maple Leafs",
+    "year": "2007",
+    "wins": "36",
+    "losses": "35"
+  },
+  {
+    "team": "Vancouver Canucks",
+    "year": "2007",
+    "wins": "39",
+    "losses": "33"
+  },
+  {
+    "team": "Washington Capitals",
+    "year": "2007",
+    "wins": "43",
+    "losses": "31"
+  },
+  {
+    "team": "Anaheim Ducks",
+    "year": "2008",
+    "wins": "42",
+    "losses": "33"
+  },
+  {
+    "team": "Atlanta Thrashers",
+    "year": "2008",
+    "wins": "35",
+    "losses": "41"
+  },
+  {
+    "team": "Boston Bruins",
+    "year": "2008",
+    "wins": "53",
+    "losses": "19"
+  },
+  {
+    "team": "Buffalo Sabres",
+    "year": "2008",
+    "wins": "41",
+    "losses": "32"
+  },
+  {
+    "team": "Calgary Flames",
+    "year": "2008",
+    "wins": "46",
+    "losses": "30"
+  },
+  {
+    "team": "Carolina Hurricanes",
+    "year": "2008",
+    "wins": "45",
+    "losses": "30"
+  },
+  {
+    "team": "Columbus Blue Jackets",
+    "year": "2008",
+    "wins": "41",
+    "losses": "31"
+  },
+  {
+    "team": "Chicago Blackhawks",
+    "year": "2008",
+    "wins": "46",
+    "losses": "24"
+  },
+  {
+    "team": "Colorado Avalanche",
+    "year": "2008",
+    "wins": "32",
+    "losses": "45"
+  },
+  {
+    "team": "Dallas Stars",
+    "year": "2008",
+    "wins": "36",
+    "losses": "35"
+  },
+  {
+    "team": "Detroit Red Wings",
+    "year": "2008",
+    "wins": "51",
+    "losses": "21"
+  },
+  {
+    "team": "Edmonton Oilers",
+    "year": "2008",
+    "wins": "38",
+    "losses": "35"
+  },
+  {
+    "team": "Florida Panthers",
+    "year": "2008",
+    "wins": "41",
+    "losses": "30"
+  },
+  {
+    "team": "Los Angeles Kings",
+    "year": "2008",
+    "wins": "34",
+    "losses": "37"
+  },
+  {
+    "team": "Minnesota Wild",
+    "year": "2008",
+    "wins": "40",
+    "losses": "33"
+  },
+  {
+    "team": "Montreal Canadiens",
+    "year": "2008",
+    "wins": "41",
+    "losses": "30"
+  },
+  {
+    "team": "Nashville Predators",
+    "year": "2008",
+    "wins": "40",
+    "losses": "34"
+  },
+  {
+    "team": "New Jersey Devils",
+    "year": "2008",
+    "wins": "51",
+    "losses": "27"
+  },
+  {
+    "team": "New York Islanders",
+    "year": "2008",
+    "wins": "26",
+    "losses": "47"
+  },
+  {
+    "team": "New York Rangers",
+    "year": "2008",
+    "wins": "43",
+    "losses": "30"
+  },
+  {
+    "team": "Ottawa Senators",
+    "year": "2008",
+    "wins": "36",
+    "losses": "35"
+  },
+  {
+    "team": "Philadelphia Flyers",
+    "year": "2008",
+    "wins": "44",
+    "losses": "27"
+  },
+  {
+    "team": "Phoenix Coyotes",
+    "year": "2008",
+    "wins": "36",
+    "losses": "39"
+  },
+  {
+    "team": "Pittsburgh Penguins",
+    "year": "2008",
+    "wins": "45",
+    "losses": "28"
+  },
+  {
+    "team": "San Jose Sharks",
+    "year": "2008",
+    "wins": "53",
+    "losses": "18"
+  },
+  {
+    "team": "St. Louis Blues",
+    "year": "2008",
+    "wins": "41",
+    "losses": "31"
+  },
+  {
+    "team": "Tampa Bay Lightning",
+    "year": "2008",
+    "wins": "24",
+    "losses": "40"
+  },
+  {
+    "team": "Toronto Maple Leafs",
+    "year": "2008",
+    "wins": "34",
+    "losses": "35"
+  },
+  {
+    "team": "Vancouver Canucks",
+    "year": "2008",
+    "wins": "45",
+    "losses": "27"
+  },
+  {
+    "team": "Washington Capitals",
+    "year": "2008",
+    "wins": "50",
+    "losses": "24"
+  },
+  {
+    "team": "Anaheim Ducks",
+    "year": "2009",
+    "wins": "39",
+    "losses": "32"
+  },
+  {
+    "team": "Atlanta Thrashers",
+    "year": "2009",
+    "wins": "35",
+    "losses": "34"
+  },
+  {
+    "team": "Boston Bruins",
+    "year": "2009",
+    "wins": "39",
+    "losses": "30"
+  },
+  {
+    "team": "Buffalo Sabres",
+    "year": "2009",
+    "wins": "45",
+    "losses": "27"
+  },
+  {
+    "team": "Calgary Flames",
+    "year": "2009",
+    "wins": "40",
+    "losses": "32"
+  },
+  {
+    "team": "Carolina Hurricanes",
+    "year": "2009",
+    "wins": "35",
+    "losses": "37"
+  },
+  {
+    "team": "Columbus Blue Jackets",
+    "year": "2009",
+    "wins": "32",
+    "losses": "35"
+  },
+  {
+    "team": "Chicago Blackhawks",
+    "year": "2009",
+    "wins": "52",
+    "losses": "22"
+  },
+  {
+    "team": "Colorado Avalanche",
+    "year": "2009",
+    "wins": "43",
+    "losses": "30"
+  },
+  {
+    "team": "Dallas Stars",
+    "year": "2009",
+    "wins": "37",
+    "losses": "31"
+  },
+  {
+    "team": "Detroit Red Wings",
+    "year": "2009",
+    "wins": "44",
+    "losses": "24"
+  },
+  {
+    "team": "Edmonton Oilers",
+    "year": "2009",
+    "wins": "27",
+    "losses": "47"
+  },
+  {
+    "team": "Florida Panthers",
+    "year": "2009",
+    "wins": "32",
+    "losses": "37"
+  },
+  {
+    "team": "Los Angeles Kings",
+    "year": "2009",
+    "wins": "46",
+    "losses": "27"
+  },
+  {
+    "team": "Minnesota Wild",
+    "year": "2009",
+    "wins": "38",
+    "losses": "36"
+  },
+  {
+    "team": "Montreal Canadiens",
+    "year": "2009",
+    "wins": "39",
+    "losses": "33"
+  },
+  {
+    "team": "Nashville Predators",
+    "year": "2009",
+    "wins": "47",
+    "losses": "29"
+  },
+  {
+    "team": "New Jersey Devils",
+    "year": "2009",
+    "wins": "48",
+    "losses": "27"
+  },
+  {
+    "team": "New York Islanders",
+    "year": "2009",
+    "wins": "34",
+    "losses": "37"
+  },
+  {
+    "team": "New York Rangers",
+    "year": "2009",
+    "wins": "38",
+    "losses": "33"
+  },
+  {
+    "team": "Ottawa Senators",
+    "year": "2009",
+    "wins": "44",
+    "losses": "32"
+  },
+  {
+    "team": "Philadelphia Flyers",
+    "year": "2009",
+    "wins": "41",
+    "losses": "35"
+  },
+  {
+    "team": "Phoenix Coyotes",
+    "year": "2009",
+    "wins": "50",
+    "losses": "25"
+  },
+  {
+    "team": "Pittsburgh Penguins",
+    "year": "2009",
+    "wins": "47",
+    "losses": "28"
+  },
+  {
+    "team": "San Jose Sharks",
+    "year": "2009",
+    "wins": "51",
+    "losses": "20"
+  },
+  {
+    "team": "St. Louis Blues",
+    "year": "2009",
+    "wins": "40",
+    "losses": "32"
+  },
+  {
+    "team": "Tampa Bay Lightning",
+    "year": "2009",
+    "wins": "34",
+    "losses": "36"
+  },
+  {
+    "team": "Toronto Maple Leafs",
+    "year": "2009",
+    "wins": "30",
+    "losses": "38"
+  },
+  {
+    "team": "Vancouver Canucks",
+    "year": "2009",
+    "wins": "49",
+    "losses": "28"
+  },
+  {
+    "team": "Washington Capitals",
+    "year": "2009",
+    "wins": "54",
+    "losses": "15"
+  },
+  {
+    "team": "Anaheim Ducks",
+    "year": "2010",
+    "wins": "47",
+    "losses": "30"
+  },
+  {
+    "team": "Atlanta Thrashers",
+    "year": "2010",
+    "wins": "34",
+    "losses": "36"
+  },
+  {
+    "team": "Boston Bruins",
+    "year": "2010",
+    "wins": "46",
+    "losses": "25"
+  },
+  {
+    "team": "Buffalo Sabres",
+    "year": "2010",
+    "wins": "43",
+    "losses": "29"
+  },
+  {
+    "team": "Calgary Flames",
+    "year": "2010",
+    "wins": "41",
+    "losses": "29"
+  },
+  {
+    "team": "Carolina Hurricanes",
+    "year": "2010",
+    "wins": "40",
+    "losses": "31"
+  },
+  {
+    "team": "Columbus Blue Jackets",
+    "year": "2010",
+    "wins": "34",
+    "losses": "35"
+  },
+  {
+    "team": "Chicago Blackhawks",
+    "year": "2010",
+    "wins": "44",
+    "losses": "29"
+  },
+  {
+    "team": "Colorado Avalanche",
+    "year": "2010",
+    "wins": "30",
+    "losses": "44"
+  },
+  {
+    "team": "Dallas Stars",
+    "year": "2010",
+    "wins": "42",
+    "losses": "29"
+  },
+  {
+    "team": "Detroit Red Wings",
+    "year": "2010",
+    "wins": "47",
+    "losses": "25"
+  },
+  {
+    "team": "Edmonton Oilers",
+    "year": "2010",
+    "wins": "25",
+    "losses": "45"
+  },
+  {
+    "team": "Florida Panthers",
+    "year": "2010",
+    "wins": "30",
+    "losses": "40"
+  },
+  {
+    "team": "Los Angeles Kings",
+    "year": "2010",
+    "wins": "46",
+    "losses": "30"
+  },
+  {
+    "team": "Minnesota Wild",
+    "year": "2010",
+    "wins": "39",
+    "losses": "35"
+  },
+  {
+    "team": "Montreal Canadiens",
+    "year": "2010",
+    "wins": "44",
+    "losses": "30"
+  },
+  {
+    "team": "Nashville Predators",
+    "year": "2010",
+    "wins": "44",
+    "losses": "27"
+  },
+  {
+    "team": "New Jersey Devils",
+    "year": "2010",
+    "wins": "38",
+    "losses": "39"
+  },
+  {
+    "team": "New York Islanders",
+    "year": "2010",
+    "wins": "30",
+    "losses": "39"
+  },
+  {
+    "team": "New York Rangers",
+    "year": "2010",
+    "wins": "44",
+    "losses": "33"
+  },
+  {
+    "team": "Ottawa Senators",
+    "year": "2010",
+    "wins": "32",
+    "losses": "40"
+  },
+  {
+    "team": "Philadelphia Flyers",
+    "year": "2010",
+    "wins": "47",
+    "losses": "23"
+  },
+  {
+    "team": "Phoenix Coyotes",
+    "year": "2010",
+    "wins": "43",
+    "losses": "26"
+  },
+  {
+    "team": "Pittsburgh Penguins",
+    "year": "2010",
+    "wins": "49",
+    "losses": "25"
+  },
+  {
+    "team": "San Jose Sharks",
+    "year": "2010",
+    "wins": "48",
+    "losses": "25"
+  },
+  {
+    "team": "St. Louis Blues",
+    "year": "2010",
+    "wins": "38",
+    "losses": "33"
+  },
+  {
+    "team": "Tampa Bay Lightning",
+    "year": "2010",
+    "wins": "46",
+    "losses": "25"
+  },
+  {
+    "team": "Toronto Maple Leafs",
+    "year": "2010",
+    "wins": "37",
+    "losses": "34"
+  },
+  {
+    "team": "Vancouver Canucks",
+    "year": "2010",
+    "wins": "54",
+    "losses": "19"
+  },
+  {
+    "team": "Washington Capitals",
+    "year": "2010",
+    "wins": "48",
+    "losses": "23"
+  },
+  {
+    "team": "Anaheim Ducks",
+    "year": "2011",
+    "wins": "34",
+    "losses": "36"
+  },
+  {
+    "team": "Boston Bruins",
+    "year": "2011",
+    "wins": "49",
+    "losses": "29"
+  },
+  {
+    "team": "Buffalo Sabres",
+    "year": "2011",
+    "wins": "39",
+    "losses": "32"
+  },
+  {
+    "team": "Calgary Flames",
+    "year": "2011",
+    "wins": "37",
+    "losses": "29"
+  },
+  {
+    "team": "Carolina Hurricanes",
+    "year": "2011",
+    "wins": "33",
+    "losses": "33"
+  },
+  {
+    "team": "Columbus Blue Jackets",
+    "year": "2011",
+    "wins": "29",
+    "losses": "46"
+  },
+  {
+    "team": "Chicago Blackhawks",
+    "year": "2011",
+    "wins": "45",
+    "losses": "26"
+  },
+  {
+    "team": "Colorado Avalanche",
+    "year": "2011",
+    "wins": "41",
+    "losses": "35"
+  },
+  {
+    "team": "Dallas Stars",
+    "year": "2011",
+    "wins": "42",
+    "losses": "35"
+  },
+  {
+    "team": "Detroit Red Wings",
+    "year": "2011",
+    "wins": "48",
+    "losses": "28"
+  },
+  {
+    "team": "Edmonton Oilers",
+    "year": "2011",
+    "wins": "32",
+    "losses": "40"
+  },
+  {
+    "team": "Florida Panthers",
+    "year": "2011",
+    "wins": "38",
+    "losses": "26"
+  },
+  {
+    "team": "Los Angeles Kings",
+    "year": "2011",
+    "wins": "40",
+    "losses": "27"
+  },
+  {
+    "team": "Minnesota Wild",
+    "year": "2011",
+    "wins": "35",
+    "losses": "36"
+  },
+  {
+    "team": "Montreal Canadiens",
+    "year": "2011",
+    "wins": "31",
+    "losses": "35"
+  },
+  {
+    "team": "Nashville Predators",
+    "year": "2011",
+    "wins": "48",
+    "losses": "26"
+  },
+  {
+    "team": "New Jersey Devils",
+    "year": "2011",
+    "wins": "48",
+    "losses": "28"
+  },
+  {
+    "team": "New York Islanders",
+    "year": "2011",
+    "wins": "34",
+    "losses": "37"
+  },
+  {
+    "team": "New York Rangers",
+    "year": "2011",
+    "wins": "51",
+    "losses": "24"
+  },
+  {
+    "team": "Ottawa Senators",
+    "year": "2011",
+    "wins": "41",
+    "losses": "31"
+  },
+  {
+    "team": "Philadelphia Flyers",
+    "year": "2011",
+    "wins": "47",
+    "losses": "26"
+  },
+  {
+    "team": "Phoenix Coyotes",
+    "year": "2011",
+    "wins": "42",
+    "losses": "27"
+  },
+  {
+    "team": "Pittsburgh Penguins",
+    "year": "2011",
+    "wins": "51",
+    "losses": "25"
+  },
+  {
+    "team": "San Jose Sharks",
+    "year": "2011",
+    "wins": "43",
+    "losses": "29"
+  },
+  {
+    "team": "St. Louis Blues",
+    "year": "2011",
+    "wins": "49",
+    "losses": "22"
+  },
+  {
+    "team": "Tampa Bay Lightning",
+    "year": "2011",
+    "wins": "38",
+    "losses": "36"
+  },
+  {
+    "team": "Toronto Maple Leafs",
+    "year": "2011",
+    "wins": "35",
+    "losses": "37"
+  },
+  {
+    "team": "Vancouver Canucks",
+    "year": "2011",
+    "wins": "51",
+    "losses": "22"
+  },
+  {
+    "team": "Washington Capitals",
+    "year": "2011",
+    "wins": "42",
+    "losses": "32"
+  },
+  {
+    "team": "Winnipeg Jets",
+    "year": "2011",
+    "wins": "37",
+    "losses": "35"
+  }
+]
